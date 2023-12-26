@@ -1,1 +1,1 @@
-# SimpleStorage-contracts
+# Learning Solidity is so cool!
